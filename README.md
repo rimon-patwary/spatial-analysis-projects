@@ -10,8 +10,8 @@ Specializing in Environmental Research, Spatial Analysis, and Global Health Data
 * **Location:** Based in Dhaka, Bangladesh.
 
 ### Skills
-QGIS | Spatial Analysis | Remote Sensing | Cartography | GIS Mapping | Data Analysis
+QGIS, Spatial Analysis, Remote Sensing, Cartography, GIS Mapping, Data Analysis
 
 ### Connect with me
-* **LinkedIn:** [md-rimon-patwary](https://linkedin.com)
+* **LinkedIn:** [md-rimon-patwary](https://www.linkedin.com/in/md-rimon-patwary)
 * **Email:** rimon.patwary1999@gmail.com
