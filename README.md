@@ -1,15 +1,17 @@
-### Hi, I'm Md Rimon Patwary 👋
+### Md Rimon Patwary
 
-**Botany Graduate | GIS & Spatial Analyst**  
-Specializing in Environmental Research, Spatial Analysis & Global Health Data
+**Botany Graduate | GIS & Spatial Analyst**
+Specializing in Environmental Research, Spatial Analysis, and Global Health Data
 
-- 🔭 Currently working on GIS-based spatial analysis and environmental mapping projects
-- 🌱 Learning advanced Remote Sensing, Python for Geospatial & QGIS automation
-- 💼 Open to opportunities in GIS, Environmental Research & Spatial Data Analysis
-- 📍 Based in Dhaka, Bangladesh
+* **Academic Status:** Incoming Master of Applied Science (Biodiversity Management) student at Unitec Institute of Technology, Auckland, New Zealand.
+* **Current Focus:** Working on GIS-based spatial analysis and environmental mapping projects.
+* **Continuous Learning:** Learning advanced Remote Sensing, Python for Geospatial, and QGIS automation.
+* **Professional Interest:** Open to opportunities in GIS, Environmental Research, and Spatial Data Analysis.
+* **Location:** Based in Dhaka, Bangladesh.
 
 ### Skills
-`QGIS` `Spatial Analysis` `Remote Sensing` `Cartography` `GIS Mapping` `Data Analysis`
+QGIS | Spatial Analysis | Remote Sensing | Cartography | GIS Mapping | Data Analysis
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/md-rimon-patwary)
+* **LinkedIn:** [md-rimon-patwary](https://linkedin.com)
+* **Email:** rimon.patwary1999@gmail.com
