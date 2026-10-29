@@ -27,12 +27,12 @@ I am a Botany graduate specialized in applying Geographic Information Systems (G
 ### 1. Sundarbans NDVI Vegetation Health Monitoring
 An independent time-series remote sensing project analyzing Sentinel-2 L2A satellite imagery to visualize vegetation health variations and salinity-induced stress zones in the Sundarbans Mangrove Forest between 2016 and 2025.
 - **Key Methods:** Raster Calculator, Temporal NDVI Scaling.
-- **View Project:** [Explore Repository & Maps](https://github.com)
+- **View Project:** https://github.com/rimon-patwary/sundarbans-ndvi-change-detection
 
 ### 2. Optimal Site Selection for a New Health Center
 A vector-based spatial optimization model leveraging OpenStreetMap (OSM) spatial datasets to determine infrastructure suitability and identify optimal sites for a new healthcare facility based on accessibility constraints.
 - **Key Methods:** Multi-Criteria Buffer Zones, Vector Intersections & Overlays.
-- **View Project:** [Explore Repository & Maps](https://github.com)
+- **View Project:** https://github.com/rimon-patwary/Health-Center-Site-Selection-QGIS
 
 
 ---
