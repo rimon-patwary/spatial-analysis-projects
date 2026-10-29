@@ -30,7 +30,7 @@ An independent time-series remote sensing project analyzing Sentinel-2 L2A satel
 - **View Project:** [Explore Repository & Maps](https://github.com)
 
 ### 2. Optimal Site Selection for a New Health Center
- A vector-based spatial optimization model leveraging OpenStreetMap (OSM) spatial datasets to determine infrastructure suitability and identify optimal sites for a new healthcare facility based on accessibility constraints.
+A vector-based spatial optimization model leveraging OpenStreetMap (OSM) spatial datasets to determine infrastructure suitability and identify optimal sites for a new healthcare facility based on accessibility constraints.
 - **Key Methods:** Multi-Criteria Buffer Zones, Vector Intersections & Overlays.
 - **View Project:** [Explore Repository & Maps](https://github.com)
 
