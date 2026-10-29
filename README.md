@@ -34,6 +34,7 @@ A vector-based spatial optimization model leveraging OpenStreetMap (OSM) spatial
 - **Key Methods:** Multi-Criteria Buffer Zones, Vector Intersections & Overlays.
 - **View Project:** [Explore Repository & Maps](https://github.com)
 
+
 ---
 
 ## Connect with Me
